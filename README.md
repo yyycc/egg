@@ -1,6 +1,6 @@
 # egg_test
 
-first time to try egg
+first time to try eggjs
 
 ## QuickStart
 
